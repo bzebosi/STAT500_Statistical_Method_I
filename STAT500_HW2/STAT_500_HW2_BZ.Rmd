@@ -1,12 +1,12 @@
 ---
-title: "Home_Work_2"
+title: 'STAT500: Home_Work_2'
 author: "Zebosi Brian, Zhengqiang Ni, Ruina Chang"
 date: "9/20/2021"
 output:
-  pdf_document: default
   html_document:
     df_print: paged
   html_notebook: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
